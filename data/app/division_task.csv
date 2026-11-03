@@ -1,0 +1,34 @@
+division,task_type,hours,cost_jpy
+Customer Service,Booking change request,2954.5066666666667,8353834.383333334
+Customer Service,CS reporting,1724.54,4875354.866666666
+Customer Service,Damage / claim handling,1918.1366666666668,5422744.016666667
+Customer Service,Delivery exception handling,3600.1966666666667,10178099.366666667
+Customer Service,Internal meetings,2398.975,6781949.5
+Customer Service,Other,1677.805,4743142.233333333
+Customer Service,Shipment status inquiry (WISMO),8379.021666666667,23687810.633333333
+Customer Service,Training / admin,1677.4483333333333,4742243.35
+Finance,Accounts payable processing,2470.13,8354021.65
+Finance,Carrier invoice reconciliation,6361.08,21512388.666666668
+Finance,Customer billing,3003.2283333333335,10155617.433333334
+Finance,Finance reporting,1413.0916666666667,4778679.45
+Finance,Internal meetings,1549.1483333333333,5239014.133333334
+Finance,Month-end close,2066.2433333333333,6987930.766666667
+Finance,Other,688.825,2329536.966666667
+Management,Approvals,2100.8133333333335,13485772.8
+Management,Internal meetings,4406.093333333333,28285253.75
+Management,Management reporting,2411.0533333333333,15477716.116666667
+Management,Other,1573.0933333333332,10099148.083333334
+Operations,Carrier booking,5022.831666666667,15701410.983333332
+Operations,Exception resolution,3766.9933333333333,11774783.55
+Operations,Internal meetings,4147.96,12966870.333333334
+Operations,Manual tracking updates,4261.14,13319313.933333334
+Operations,Ops reporting,2319.1183333333333,7249138.066666666
+Operations,Other,1883.6066666666666,5887403.3
+Operations,Shipping document data entry,11606.925,36278540.03333333
+Operations,Warehouse coordination,5273.988333333334,16483527.6
+Sales Admin,CRM updates,2096.735,6148552.233333333
+Sales Admin,Internal meetings,2045.1233333333332,5997029.316666666
+Sales Admin,Other,1364.08,4000188.466666667
+Sales Admin,Quote preparation,4191.89,12291238.516666668
+Sales Admin,Rate lookup,2520.3283333333334,7391050.483333333
+Sales Admin,Sales reporting,1681.0766666666666,4929754.666666667

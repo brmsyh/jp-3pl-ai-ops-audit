@@ -1,0 +1,61 @@
+employee_id,name,division,role,hire_date,hourly_cost_jpy
+E001,Riku Yamaguchi,Customer Service,Team Lead,2015-02-22,3060
+E002,Aoi Sato,Customer Service,Senior Staff,2017-08-03,2550
+E003,Kenta Shimizu,Customer Service,Staff,2024-02-14,2830
+E004,Sakura Nakamura,Customer Service,Staff,2018-12-21,2580
+E005,Rin Kobayashi,Customer Service,Staff,2016-08-07,2480
+E006,Emi Yamada,Customer Service,Staff,2023-05-27,3110
+E007,Misaki Hayashi,Customer Service,Staff,2012-09-16,3030
+E008,Yuka Hayashi,Customer Service,Senior Staff,2018-10-05,2790
+E009,Hina Kimura,Customer Service,Staff,2024-05-10,2900
+E010,Shota Yamada,Customer Service,Senior Staff,2019-05-05,3180
+E011,Hina Tanaka,Customer Service,Staff,2021-10-06,2520
+E012,Kenta Mori,Customer Service,Staff,2025-06-28,2530
+E013,Ayaka Kimura,Customer Service,Staff,2014-10-04,2980
+E014,Yui Nakamura,Customer Service,Senior Staff,2018-03-15,3010
+E015,Yuto Yamamoto,Operations,Team Lead,2013-08-17,2690
+E016,Ayaka Watanabe,Operations,Staff,2020-03-21,2810
+E017,Rin Mori,Operations,Staff,2021-09-29,3340
+E018,Mei Suzuki,Operations,Staff,2013-08-01,2810
+E019,Kenta Kato,Operations,Senior Staff,2024-09-06,2680
+E020,Ren Matsumoto,Operations,Staff,2015-02-18,3040
+E021,Haruto Kobayashi,Operations,Staff,2020-07-09,3490
+E022,Kaito Watanabe,Operations,Staff,2016-06-09,3210
+E023,Misaki Yamamoto,Operations,Staff,2017-08-03,3500
+E024,Yuto Inoue,Operations,Staff,2021-12-30,3160
+E025,Koji Takahashi,Operations,Staff,2012-06-16,3560
+E026,Shota Inoue,Operations,Staff,2021-07-20,3560
+E027,Kaito Takahashi,Operations,Staff,2020-09-08,2650
+E028,Daiki Yoshida,Operations,Senior Staff,2025-01-10,3250
+E029,Riku Watanabe,Operations,Staff,2020-09-22,2920
+E030,Haruto Inoue,Operations,Staff,2018-05-21,3350
+E031,Takumi Yamada,Operations,Staff,2013-10-31,2820
+E032,Daiki Takahashi,Operations,Staff,2018-08-07,3440
+E033,Nanami Sato,Operations,Staff,2017-06-05,2880
+E034,Emi Mori,Operations,Staff,2014-12-18,3360
+E035,Takumi Yamamoto,Operations,Staff,2018-01-02,2950
+E036,Aoi Yoshida,Operations,Senior Staff,2022-08-17,3290
+E037,Emi Matsumoto,Finance,Team Lead,2024-10-14,3460
+E038,Ayaka Takahashi,Finance,Staff,2022-08-04,3880
+E039,Yui Kato,Finance,Staff,2018-07-29,3530
+E040,Haruto Tanaka,Finance,Staff,2021-07-03,3460
+E041,Hiroshi Hayashi,Finance,Staff,2013-05-25,3140
+E042,Mei Watanabe,Finance,Senior Staff,2022-09-21,3220
+E043,Yuto Yamamoto,Finance,Staff,2023-04-08,3170
+E044,Emi Yoshida,Finance,Staff,2024-03-25,3640
+E045,Aoi Yoshida,Finance,Staff,2018-06-01,3130
+E046,Nanami Yoshida,Finance,Senior Staff,2021-06-05,3180
+E047,Yuka Yamaguchi,Sales Admin,Team Lead,2021-03-16,2910
+E048,Hiroshi Yamaguchi,Sales Admin,Senior Staff,2019-01-10,2720
+E049,Yuka Watanabe,Sales Admin,Staff,2020-10-14,3090
+E050,Takumi Ito,Sales Admin,Staff,2025-07-31,2580
+E051,Kenta Suzuki,Sales Admin,Staff,2022-05-15,3250
+E052,Kenta Shimizu,Sales Admin,Senior Staff,2023-02-26,2980
+E053,Sakura Mori,Sales Admin,Staff,2014-02-14,2810
+E054,Hiroshi Takahashi,Sales Admin,Staff,2017-09-11,3120
+E055,Hiroshi Kimura,Management,Manager,2022-05-01,7170
+E056,Takumi Sasaki,Management,Manager,2023-01-20,5800
+E057,Naoko Suzuki,Management,Manager,2014-01-01,6420
+E058,Misaki Watanabe,Management,Manager,2018-03-28,7000
+E059,Koji Nakamura,Management,Manager,2016-07-17,6010
+E060,Kaito Matsumoto,Management,Manager,2020-11-07,6140

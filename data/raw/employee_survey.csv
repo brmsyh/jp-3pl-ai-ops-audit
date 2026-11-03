@@ -1,0 +1,57 @@
+employee_id,division,biggest_time_drain_1,biggest_time_drain_2,biggest_time_drain_3,est_hours_per_week_on_drain_1,open_to_ai_tools_1to5,comment
+E001,Customer Service,Exception handling,Shipment status inquiries (WISMO),Reporting in Excel,5,4,Customers keep asking the same tracking questions.
+E002,Customer Service,Reporting in Excel,Internal meetings,Shipment status inquiries (WISMO),11,3,Weekly Excel reports are copy-paste work.
+E003,Customer Service,Exception handling,Shipment status inquiries (WISMO),Shipping document data entry,9,2,Weekly Excel reports are copy-paste work.
+E004,Customer Service,Shipment status inquiries (WISMO),Exception handling,Internal meetings,9,4,Retyping PDFs into the WMS takes forever.
+E005,Customer Service,Internal meetings,Shipment status inquiries (WISMO),Reporting in Excel,10,3,Customers keep asking the same tracking questions.
+E006,Customer Service,Internal meetings,Shipment status inquiries (WISMO),Exception handling,4,3,Retyping PDFs into the WMS takes forever.
+E007,Customer Service,Internal meetings,Reporting in Excel,Shipment status inquiries (WISMO),3,4,"Too many meetings, hard to focus."
+E008,Customer Service,Reporting in Excel,Shipment status inquiries (WISMO),Exception handling,14,4,Customers keep asking the same tracking questions.
+E009,Customer Service,Internal meetings,Reporting in Excel,Shipment status inquiries (WISMO),14,2,Weekly Excel reports are copy-paste work.
+E010,Customer Service,Internal meetings,Exception handling,Quote preparation,8,5,
+E011,Customer Service,Internal meetings,Carrier invoice reconciliation,Reporting in Excel,3,5,
+E012,Customer Service,Exception handling,Internal meetings,Shipping document data entry,10,3,
+E014,Customer Service,Internal meetings,Shipment status inquiries (WISMO),Exception handling,5,3,Retyping PDFs into the WMS takes forever.
+E015,Operations,Internal meetings,Shipping document data entry,Exception handling,6,4,"Too many meetings, hard to focus."
+E016,Operations,Internal meetings,Exception handling,Shipment status inquiries (WISMO),12,3,
+E017,Operations,Internal meetings,Reporting in Excel,Exception handling,5,5,Weekly Excel reports are copy-paste work.
+E018,Operations,Exception handling,Shipping document data entry,Reporting in Excel,8,4,Weekly Excel reports are copy-paste work.
+E019,Operations,Internal meetings,Shipping document data entry,Exception handling,10,3,Checking carrier invoices line by line is exhausting.
+E020,Operations,Reporting in Excel,Internal meetings,Exception handling,5,5,
+E021,Operations,Internal meetings,Reporting in Excel,Shipping document data entry,13,5,
+E022,Operations,Reporting in Excel,Exception handling,Shipping document data entry,5,4,Weekly Excel reports are copy-paste work.
+E023,Operations,Shipping document data entry,Reporting in Excel,Internal meetings,8,4,Checking carrier invoices line by line is exhausting.
+E024,Operations,Internal meetings,Shipment status inquiries (WISMO),Exception handling,8,2,Checking carrier invoices line by line is exhausting.
+E025,Operations,Shipping document data entry,Internal meetings,Shipment status inquiries (WISMO),14,5,
+E026,Operations,Shipping document data entry,Internal meetings,Exception handling,14,5,
+E027,Operations,Exception handling,Internal meetings,Quote preparation,6,4,
+E028,Operations,Exception handling,Internal meetings,Shipment status inquiries (WISMO),12,3,Weekly Excel reports are copy-paste work.
+E029,Operations,Reporting in Excel,Shipment status inquiries (WISMO),Exception handling,4,3,
+E030,Operations,Internal meetings,Shipping document data entry,Reporting in Excel,9,3,Retyping PDFs into the WMS takes forever.
+E033,Operations,Exception handling,Internal meetings,Shipping document data entry,7,4,Checking carrier invoices line by line is exhausting.
+E034,Operations,Shipping document data entry,Internal meetings,Exception handling,6,4,"Too many meetings, hard to focus."
+E035,Operations,Internal meetings,Reporting in Excel,Shipping document data entry,5,4,Retyping PDFs into the WMS takes forever.
+E036,Operations,Shipping document data entry,Reporting in Excel,Exception handling,5,4,"Too many meetings, hard to focus."
+E037,Finance,Carrier invoice reconciliation,Reporting in Excel,Exception handling,11,3,Retyping PDFs into the WMS takes forever.
+E038,Finance,Carrier invoice reconciliation,Internal meetings,Shipping document data entry,14,3,Retyping PDFs into the WMS takes forever.
+E039,Finance,Carrier invoice reconciliation,Internal meetings,Reporting in Excel,7,5,Retyping PDFs into the WMS takes forever.
+E040,Finance,Reporting in Excel,Carrier invoice reconciliation,Shipping document data entry,11,4,
+E041,Finance,Carrier invoice reconciliation,Reporting in Excel,Shipping document data entry,8,4,Customers keep asking the same tracking questions.
+E042,Finance,Shipping document data entry,Internal meetings,Reporting in Excel,8,4,
+E043,Finance,Reporting in Excel,Exception handling,Carrier invoice reconciliation,14,4,Retyping PDFs into the WMS takes forever.
+E044,Finance,Reporting in Excel,Internal meetings,Exception handling,6,2,
+E045,Finance,Reporting in Excel,Internal meetings,Exception handling,8,5,Retyping PDFs into the WMS takes forever.
+E046,Finance,Internal meetings,Carrier invoice reconciliation,Reporting in Excel,4,5,
+E047,Sales Admin,Internal meetings,Quote preparation,Carrier invoice reconciliation,13,4,
+E048,Sales Admin,Quote preparation,Shipment status inquiries (WISMO),Internal meetings,11,5,
+E049,Sales Admin,Quote preparation,Reporting in Excel,Internal meetings,7,4,Weekly Excel reports are copy-paste work.
+E050,Sales Admin,Internal meetings,Quote preparation,Reporting in Excel,8,4,"Too many meetings, hard to focus."
+E051,Sales Admin,Quote preparation,Reporting in Excel,Shipment status inquiries (WISMO),6,3,Retyping PDFs into the WMS takes forever.
+E052,Sales Admin,Quote preparation,Exception handling,Internal meetings,14,3,
+E054,Sales Admin,Quote preparation,Reporting in Excel,Internal meetings,5,4,
+E055,Management,Internal meetings,Shipping document data entry,Quote preparation,14,5,
+E056,Management,Internal meetings,Reporting in Excel,Exception handling,12,3,Checking carrier invoices line by line is exhausting.
+E057,Management,Carrier invoice reconciliation,Shipment status inquiries (WISMO),Internal meetings,13,5,Weekly Excel reports are copy-paste work.
+E058,Management,Exception handling,Internal meetings,Shipment status inquiries (WISMO),8,4,
+E059,Management,Reporting in Excel,Shipment status inquiries (WISMO),Exception handling,10,3,
+E060,Management,Internal meetings,Exception handling,Reporting in Excel,14,4,Customers keep asking the same tracking questions.
