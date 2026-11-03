@@ -4,7 +4,7 @@
 
 > Built on realistic synthetic data (12 months, ~166k time-tracking entries, 26k customer emails, 41k shipping documents, 34k carrier invoice lines). No real company data is used.
 
-**Live dashboard:** (https://jp-3pl-ai-audit.streamlit.app/) · **Report:** [`reports/AI_Operations_Audit_Report.pdf`](reports/AI_Operations_Audit_Report.pdf)
+**Live dashboard:** [https://jp-3pl-ai-audit.streamlit.app/] · **Report:** [`reports/AI_Operations_Audit_Report.pdf`](reports/AI_Operations_Audit_Report.pdf)
 
 ## Key results
 
